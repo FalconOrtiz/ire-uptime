@@ -30,7 +30,7 @@ PAGES = [
     {"id": "ireclaw_home",    "url": "https://ireclaw.com",         "text": "Autonomous AI Agents for Business"},
     {"id": "ireclaw_pricing", "url": "https://ireclaw.com/pricing", "text": "Choose the operator level"},
     {"id": "ireclaw_login",   "url": "https://ireclaw.com/login",   "text": "Log in to your account"},
-    {"id": "iredigital_home", "url": "https://iredigitalmedia.com", "text": "Capture Clients Earlier"},
+    {"id": "iredigital_home", "url": "https://iredigitalmedia.com", "text": "IRE Digital Media"},
     {"id": "irevideo_home",   "url": "https://irevideo.com",        "text": "AI Editor for TikTok, Reels, and YouTube Shorts"},
 ]
 ENDPOINTS = [
